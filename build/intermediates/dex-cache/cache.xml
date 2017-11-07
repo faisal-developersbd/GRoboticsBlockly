@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TC\.android\build-cache\c58dc6e215dadac79d4bdb3f604c6900d1100dc3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fb576cbedea81f99317d6c10a5efe95f6e9b4661">
+        <dex dex="D:\Github\Scratch\GRoboticsBlockly\app\build\intermediates\pre-dexed\debug\classes_458888fe96d251dfdd27d5a82ef4f958e2d61e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TC\.android\build-cache\03c2ce7f075ca86a5f701d931b0b92be4136de92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="81f94c31424279b887956804aa931972ca8cce3f">
+        <dex dex="D:\Github\Scratch\GRoboticsBlockly\app\build\intermediates\pre-dexed\debug\classes_51d80888df4a6d282915de0ac8255f30eb3fc12a.jar" />
+    </item>
+
+</items>

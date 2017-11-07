@@ -1,0 +1,1 @@
+include ':app', ':blocklylib-core-debug', ':blocklylib-core-release', ':blocklylib-vertical-debug', ':blocklylib-vertical-release'
